@@ -1,0 +1,16 @@
+.stat:first-child {
+  margin-top: 40px;
+}
+
+.stat:last-child {
+  margin-top: -40px;
+}
+
+.office:hover {
+  box-shadow: 2px 10px 2px rgba(116, 116, 116, 0.2);
+  display: inline-block;
+}
+.office .link {
+  text-decoration: none;
+  color: #747474;
+}
